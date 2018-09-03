@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Prosto+One&subset=latin-ext');
+
+.sign{
+    font-family: 'Prosto One', impact;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+    fill: #FFF;
+}
+svg{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(0, #FF8800, #FFC20D);
+    overflow: visible;
+}
